@@ -1,6 +1,6 @@
 # PhD_thesis
 
-This repository containsz all code used for the analysis in my PhD thesis titled : _On the measurement and estimation of cognitive processes with  electrophysiological recordings and reaction time modeling_
+This repository contains all code used for the analysis in my PhD thesis titled : _On the measurement and estimation of cognitive processes with  electrophysiological recordings and reaction time modeling_
 
 Note that the chapter 2 is already published and therefore has a separate directory at https://github.com/GWeindel/DecomposingRT
 
