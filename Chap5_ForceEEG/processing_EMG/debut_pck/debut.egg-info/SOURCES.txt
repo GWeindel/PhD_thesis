@@ -1,0 +1,17 @@
+README.md
+setup.py
+debut/__init__.py
+debut/emgtools.py
+debut/events.py
+debut/latency.py
+debut.egg-info/PKG-INFO
+debut.egg-info/SOURCES.txt
+debut.egg-info/dependency_links.txt
+debut.egg-info/top_level.txt
+debut/utils/__init__.py
+debut/utils/use_mne.py
+debut/utils/use_neo.py
+debut/utils/use_txt.py
+debut/utils/utilsfunc.py
+debut/viz/__init__.py
+debut/viz/viz_emg.py
