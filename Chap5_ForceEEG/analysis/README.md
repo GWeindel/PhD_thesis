@@ -2,4 +2,4 @@
 
 Summary.ipynb contains the code used for the result section in the chapter, (I expect to comment a bit more in the near future...)
 
-As of 27 Feb. 2021 the mixed_models and DDM code are not yet available as I temprarily lost access to the cluster used for the fit. But these files will be made available as soon as possible.
+As of 27 Feb. 2021 the mixed_models and DDM code are not yet available as I temprarily lost access to the cluster used for the fit. But these files will be made available as soon as possible. Note that the code used to fit mixed models and DDM is rather close to the code in chapter 4.
