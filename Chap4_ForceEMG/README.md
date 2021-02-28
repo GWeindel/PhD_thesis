@@ -4,4 +4,6 @@ DDM/ folder contains summary stats for the best fitting model as well as code to
 
 MixedModels/ folder contains the code used to preprocess the data, generate the .stan (LMEdata_model_init.py and GLMEdata_model_init.py) file and to fit the GLMMs on RT, PMT, MT and proportion correct (GLMEfit.py).
 
+Experiment/ Contains code to reproduce the experiment using psychopy, gabor.py runs the experiment and gabor_training.py runs the preceeding training session
+
 Notebooks numbered from 1 to 3 contains the code used to generate and plot the results.
