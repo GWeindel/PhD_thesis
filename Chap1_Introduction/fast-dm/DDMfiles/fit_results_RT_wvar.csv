@@ -1,0 +1,10 @@
+,level_0,value,stimulus,parameter,participant,fit
+0,1,0.5,,zr,data_S0.csv,41.0139
+1,2,0.849,,a,data_S0.csv,41.0139
+2,3,0.4904,1.0,v,data_S0.csv,41.0139
+3,4,0.3512,,t0,data_S0.csv,41.0139
+4,5,0.8127,,szr,data_S0.csv,41.0139
+5,6,0.3938,,sv,data_S0.csv,41.0139
+6,7,3.6142,4.0,v,data_S0.csv,41.0139
+7,8,1.5903,2.0,v,data_S0.csv,41.0139
+8,9,2.6269,3.0,v,data_S0.csv,41.0139
